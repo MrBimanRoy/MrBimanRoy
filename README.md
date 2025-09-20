@@ -40,15 +40,15 @@ Beyond academics, I’m motivated by long-term goals and believe in consistency,
   </a>
   
   <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Burhan-pink?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Burhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Burhan-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Burhan-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee" />
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Burhan-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
 
