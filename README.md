@@ -22,7 +22,14 @@ Frameworks & Liberies
 
 | Framework & Liberies |
 |----------------------|
-| <img src="https://skillicons.dev/icons?i=react,springboot" width="220"/> |
+| <img src="https://skillicons.dev/icons?i=react,spring" width="180"/> |
+
+Tools for software dev
+
+| Tools |
+|-------|
+| <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
+
 
 Tools for AI & ML
 
@@ -32,9 +39,9 @@ Tools for AI & ML
 
 Databases
 
-| Tools |
+| Known Databases |
 |-------|
-| <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="220"/> |
+| <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="180"/> |
 
 
 
