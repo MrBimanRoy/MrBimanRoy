@@ -1,51 +1,47 @@
-<!-- 🌟 Header Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=I%20am%20Biman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=7F3ACE&height=120&section=header&text=I%20am%20Biman&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👋 About Me  
+Hi, I’m **Biman** — a **Computer Science Student** passionate about **AI, design, and technology**.  
+I love mixing **creativity with code** to design clean, functional, and aesthetic digital experiences.  
 
-I’m **Biman**, a **Computer Science student** and a **creative tech enthusiast** ✨.  
-I love blending **art & technology** — from coding AI models to designing sleek, modern visuals.  
-
-- 🎨 Graphic Design + Branding  
-- 🖥️ AI & Machine Learning  
-- 📚 Lifelong Learner  
-
----
-
-## 🛠️ My Toolbox  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php,html,css" height="50"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,blender,vscode,git,linux" height="50"/>
-</p>
+- 🎨 Graphic Design Enthusiast  
+- 🖥️ Future AI/ML Engineer  
+- 🛠️ Lifelong Learner & Open Source Contributor  
 
 ---
 
-## 📊 Tech + Design  
+## 🛠️ My Creative & Technical Toolbox  
 
-| **Machine Learning** | **Design Tools** | **Other Skills** |
-|----------------------|------------------|------------------|
-| PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy | Photoshop, Illustrator, Figma, After Effects | Git, Linux, Web Dev, Branding |
+| Languages | Tools | Design |
+|-----------|-------|--------|
+| <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php" width="220"/> | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> | <img src="https://skillicons.dev/icons?i=ps,ai,xd,blender" width="220"/> |
+
+---
+
+## 📊 Machine Learning Stack  
+
+| PyTorch | TensorFlow | Pandas | NumPy | Sklearn | Matplotlib | OpenCV |
+|---------|------------|--------|-------|---------|------------|--------|
+| <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" fill="#150458"/> | <img src="https://numpy.org/images/logo.svg" width="50"/> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50"/> | <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50"/> | <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-1.png" width="50"/> |
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
-  <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
+  <a href="https://yourwebsite.com"><img src="https://skillicons.dev/icons?i=web" width="50"/></a>
+  <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
 </p>
 
 ---
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=MrBimanRoy&label=Profile+Views&color=7F3ACE&style=flat" alt="views"/>
 </p>
