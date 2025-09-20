@@ -16,9 +16,10 @@ I’m a passionate MCA student who enjoys exploring how technology can solve rea
 
 # Languages
 
-| Languages | Tools | Design |
-|-----------|-------|--------|
-| <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php" width="220"/> | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> | <img src="https://skillicons.dev/icons?i=ps,ai,xd,blender" width="220"/> |
+| Languages |
+|-----------|
+| <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php" width="220"/> |
+# Best Frameworks & Liberies
 
 | Framework & Liberies |
 |----------------------|
