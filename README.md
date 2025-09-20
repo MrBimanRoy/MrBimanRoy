@@ -17,25 +17,19 @@ Languages
 | Languages |
 |-----------|
 | <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php" width="220"/> |
-# Best Frameworks & Liberies
+Frameworks & Liberies
 
 | Framework & Liberies |
 |----------------------|
 | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
 
-# Best Frameworks & Liberies
+Tools for AI & ML
 
 | Tools |
 |-------|
 | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
 
-# IDES
 
-| IDES |
-|-------|
-| <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
-
----
 
 
 
