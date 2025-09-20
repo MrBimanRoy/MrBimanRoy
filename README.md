@@ -11,10 +11,10 @@
 ## 👋 About Me  
 I’m a passionate MCA student who enjoys exploring how technology can solve real-world problems. I like building projects that are practical, innovative, and future-focused. My journey is driven by curiosity—I’m always eager to learn new concepts, experiment with ideas, and push myself toward bigger challenges.Beyond academics, I’m motivated by long-term goals and believe in consistency, hard work, and creativity. I see technology not just as a career path but as a way to create meaningful impact.
 
-##Languages & Tools
+## Languages & Tools
 ---
 
-#Languages
+# Languages
 
 | Languages | Tools | Design |
 |-----------|-------|--------|
