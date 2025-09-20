@@ -37,7 +37,7 @@ Beyond academics, I’m motivated by long-term goals and believe in consistency,
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
-  <a href="https://yourwebsite.com"><img src="https://skillicons.dev/icons?i=DISCORD" width="50"/></a>
+  <a href="https://yourwebsite.com"><img src="https://skillicons.dev/icons?i=discord" width="50"/></a>
   <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
 </p>
 
