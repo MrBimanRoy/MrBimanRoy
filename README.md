@@ -1,25 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <svg viewBox="0 0 960 300" width="100%" height="200">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#7F3ACE;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#B388EB;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path fill="url(#grad)">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite"
-        values="
-          M428,293Q346,346,258,307Q170,268,124,179Q78,90,160,57Q242,24,325,63Q408,102,461,176Q514,250,428,293Z;
-          M450,300Q360,350,270,310Q180,270,130,185Q80,100,170,65Q260,30,335,75Q410,120,470,190Q530,260,450,300Z;
-          M428,293Q346,346,258,307Q170,268,124,179Q78,90,160,57Q242,24,325,63Q408,102,461,176Q514,250,428,293Z
-        " />
-    </path>
-    <text x="50%" y="55%" text-anchor="middle" fill="black" font-size="55" font-family="Arial" font-weight="bold">
-      I am Biman.
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=I+am+Biman." alt="Typing Animation" />
 </p>
+
 
 ---
 
