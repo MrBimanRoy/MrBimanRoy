@@ -1,32 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
-
-    <!-- Animated gradient background -->
-    <defs>
-      <linearGradient id="gradient">
-        <stop offset="0%" stop-color="#6a11cb">
-          <animate attributeName="stop-color" values="#6a11cb;#2575fc;#6a11cb" dur="8s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#2575fc">
-          <animate attributeName="stop-color" values="#2575fc;#6a11cb;#2575fc" dur="8s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
-
-    <!-- Moving background rectangle -->
-    <rect width="100%" height="100%" fill="url(#gradient)">
-      <animate attributeName="x" from="-800" to="800" dur="20s" repeatCount="indefinite" />
-    </rect>
-
-    <!-- Title Text with outline -->
-    <text x="50%" y="55%" text-anchor="middle"
-          font-size="60" font-family="Poppins, Arial Black, sans-serif"
-          stroke="#fff" stroke-width="2" fill="black" font-weight="bold">
-      I am Biman
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=I%20am%20Biman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
 
 
 
