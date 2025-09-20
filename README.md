@@ -43,7 +43,7 @@ Beyond academics, I’m motivated by long-term goals and believe in consistency,
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:bimanroy654@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
