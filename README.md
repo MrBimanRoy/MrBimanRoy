@@ -20,6 +20,8 @@ I’m a passionate MCA student who enjoys exploring how technology can solve rea
 |-----------|-------|--------|
 | <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php" width="220"/> | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> | <img src="https://skillicons.dev/icons?i=ps,ai,xd,blender" width="220"/> |
 
+| Languages |
+|-----------|
 ---
 
 ## 📊 Machine Learning Stack  
