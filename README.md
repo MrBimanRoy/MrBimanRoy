@@ -25,11 +25,17 @@ I’m a passionate MCA student who enjoys exploring how technology can solve rea
 |----------------------|
 | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
 
-## 📊 Machine Learning Stack  
+# Best Frameworks & Liberies
 
-| PyTorch | TensorFlow | Pandas | NumPy | Sklearn | Matplotlib | OpenCV |
-|---------|------------|--------|-------|---------|------------|--------|
-| <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" fill="#150458"/> | <img src="https://numpy.org/images/logo.svg" width="50"/> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50"/> | <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50"/> | <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-1.png" width="50"/> |
+| Tools |
+|-------|
+| <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
+
+# IDES
+
+| IDES |
+|-------|
+| <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
 
 ---
 
