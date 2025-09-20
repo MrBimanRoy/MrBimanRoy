@@ -1,7 +1,37 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=I+am+Biman." alt="Typing Animation" />
+  <svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Gradient Background -->
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#7F3ACE">
+          <animate attributeName="stop-color" values="#7F3ACE;#B388EB;#7F3ACE" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#B388EB">
+          <animate attributeName="stop-color" values="#B388EB;#7F3ACE;#B388EB" dur="6s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+
+    <!-- Animated Blob Background -->
+    <path fill="url(#grad)" opacity="0.7">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+          M428,193Q346,246,258,207Q170,168,124,129Q78,90,160,67Q242,44,325,83Q408,122,461,146Q514,170,428,193Z;
+          M450,200Q360,260,270,220Q180,180,130,135Q80,90,170,75Q260,60,335,105Q410,150,470,170Q530,190,450,200Z;
+          M428,193Q346,246,258,207Q170,168,124,129Q78,90,160,67Q242,44,325,83Q408,122,461,146Q514,170,428,193Z
+        " />
+    </path>
+
+    <!-- Title Text -->
+    <text x="50%" y="55%" text-anchor="middle" fill="#fff"
+          font-size="55" font-family="Poppins, Arial" font-weight="bold">
+      I am Biman
+    </text>
+  </svg>
 </p>
+
 
 
 ---
