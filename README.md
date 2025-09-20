@@ -16,7 +16,7 @@ Languages
 
 | Languages |
 |-----------|
-| <img src="https://skillicons.dev/icons?i=java,python,c,sql,html,css" width="220"/> |
+| <img src="https://skillicons.dev/icons?i=java,python,c,sql,html,css figma&theme=light" width="220"/> |
 
 Frameworks & Liberies
 
