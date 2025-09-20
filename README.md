@@ -30,6 +30,12 @@ Tools for AI & ML
 |-------|
 | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
 
+Databases
+
+| Tools |
+|-------|
+| <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="220"/> |
+
 
 
 
