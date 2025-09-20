@@ -1,61 +1,51 @@
-<!-- Header Banner -->
+<!-- 🌟 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=I%20am%20Biman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=I%20am%20Biman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
 </p>
-
-
-
 
 ---
 
-## 👋 About Me  
-I’m a passionate MCA student who enjoys exploring how technology can solve real-world problems. I like building projects that are practical, innovative, and future-focused. My journey is driven by curiosity—I’m always eager to learn new concepts, experiment with ideas, and push myself toward bigger challenges.Beyond academics, I’m motivated by long-term goals and believe in consistency, hard work, and creativity. I see technology not just as a career path but as a way to create meaningful impact.
+## 👨‍💻 About Me  
 
+I’m **Biman**, a **Computer Science student** and a **creative tech enthusiast** ✨.  
+I love blending **art & technology** — from coding AI models to designing sleek, modern visuals.  
 
+- 🎨 Graphic Design + Branding  
+- 🖥️ AI & Machine Learning  
+- 📚 Lifelong Learner  
 
-| Languages |
-|-----------|
-| <img src="https://skillicons.dev/icons?i=java,python,c" width="220"/> |
+---
 
+## 🛠️ My Toolbox  
 
-| Framework & Liberies |
-|----------------------|
-| <img src="https://skillicons.dev/icons?i=react,spring" width="180"/> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php,html,css" height="50"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,blender,vscode,git,linux" height="50"/>
+</p>
 
+---
 
+## 📊 Tech + Design  
 
-| Tools for sofware dev |
-|-------|
-| <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
+| **Machine Learning** | **Design Tools** | **Other Skills** |
+|----------------------|------------------|------------------|
+| PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy | Photoshop, Illustrator, Figma, After Effects | Git, Linux, Web Dev, Branding |
 
-
-
-
-| Tools for AI & ML |
-|-------|
-| <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
-
-
-
-| Known Databases |
-|-------|
-| <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="180"/> |
-
-
-
-
+---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
- <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
+  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+  <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 </p>
-
 
 ---
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrBimanRoy&label=Profile+Views&color=7F3ACE&style=flat" alt="views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
 </p>
