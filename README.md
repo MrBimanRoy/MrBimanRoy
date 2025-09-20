@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=7F3ACE&height=120&section=header&text=I%20am%20Biman&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=I%20am%20Biman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
 </p>
 
 ---
@@ -44,4 +44,9 @@ I love mixing **creativity with code** to design clean, functional, and aestheti
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrBimanRoy&label=Profile+Views&color=7F3ACE&style=flat" alt="views"/>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
 </p>
