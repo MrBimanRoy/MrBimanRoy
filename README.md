@@ -31,14 +31,14 @@ I love mixing **creativity with code** to design clean, functional, and aestheti
 
 ---
 
-## 🌐 Connect With Me  
+
 
 ## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
+ 
   <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
 </p>
 
