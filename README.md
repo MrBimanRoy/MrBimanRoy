@@ -16,12 +16,13 @@ Languages
 
 | Languages |
 |-----------|
-| <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php" width="220"/> |
+| <img src="https://skillicons.dev/icons?i=java,python,c,sql,html,css" width="220"/> |
+
 Frameworks & Liberies
 
 | Framework & Liberies |
 |----------------------|
-| <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> |
+| <img src="https://skillicons.dev/icons?i=react,springboot" width="220"/> |
 
 Tools for AI & ML
 
