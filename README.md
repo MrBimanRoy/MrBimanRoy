@@ -1,32 +1,28 @@
 <!-- Header Banner -->
 <p align="center">
-  <svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
 
-    <!-- Gradient Background -->
+    <!-- Animated gradient background -->
     <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#7F3ACE">
-          <animate attributeName="stop-color" values="#7F3ACE;#B388EB;#7F3ACE" dur="6s" repeatCount="indefinite"/>
+      <linearGradient id="gradient">
+        <stop offset="0%" stop-color="#6a11cb">
+          <animate attributeName="stop-color" values="#6a11cb;#2575fc;#6a11cb" dur="8s" repeatCount="indefinite"/>
         </stop>
-        <stop offset="100%" stop-color="#B388EB">
-          <animate attributeName="stop-color" values="#B388EB;#7F3ACE;#B388EB" dur="6s" repeatCount="indefinite"/>
+        <stop offset="100%" stop-color="#2575fc">
+          <animate attributeName="stop-color" values="#2575fc;#6a11cb;#2575fc" dur="8s" repeatCount="indefinite"/>
         </stop>
       </linearGradient>
     </defs>
 
-    <!-- Animated Blob Background -->
-    <path fill="url(#grad)" opacity="0.7">
-      <animate attributeName="d" dur="10s" repeatCount="indefinite"
-        values="
-          M428,193Q346,246,258,207Q170,168,124,129Q78,90,160,67Q242,44,325,83Q408,122,461,146Q514,170,428,193Z;
-          M450,200Q360,260,270,220Q180,180,130,135Q80,90,170,75Q260,60,335,105Q410,150,470,170Q530,190,450,200Z;
-          M428,193Q346,246,258,207Q170,168,124,129Q78,90,160,67Q242,44,325,83Q408,122,461,146Q514,170,428,193Z
-        " />
-    </path>
+    <!-- Moving background rectangle -->
+    <rect width="100%" height="100%" fill="url(#gradient)">
+      <animate attributeName="x" from="-800" to="800" dur="20s" repeatCount="indefinite" />
+    </rect>
 
-    <!-- Title Text -->
-    <text x="50%" y="55%" text-anchor="middle" fill="#fff"
-          font-size="55" font-family="Poppins, Arial" font-weight="bold">
+    <!-- Title Text with outline -->
+    <text x="50%" y="55%" text-anchor="middle"
+          font-size="60" font-family="Poppins, Arial Black, sans-serif"
+          stroke="#fff" stroke-width="2" fill="black" font-weight="bold">
       I am Biman
     </text>
   </svg>
