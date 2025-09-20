@@ -32,14 +32,26 @@ Beyond academics, I’m motivated by long-term goals and believe in consistency,
 
 ---
 
-## 🌐 Connect With Me  
+## Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
-  <a href="https://yourwebsite.com"><img src="https://skillicons.dev/icons?i=discord" width="50"/></a>
-  <a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Burhan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://www.instagram.com/your-instagram/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Burhan-pink?style=for-the-badge&logo=instagram" />
+  </a>
+  
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Burhan-red?style=for-the-badge&logo=gmail" />
+  </a>
+  
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee" />
+  </a>
 </p>
+
 
 ---
 
