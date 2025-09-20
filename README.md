@@ -1,4 +1,8 @@
-<h1 align="center">I am Biman.</h1>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=I+am+Biman." alt="Typing SVG" />
+</p>
+
 
 ---
 
