@@ -20,15 +20,15 @@ Beyond academics, I’m motivated by long-term goals and believe in consistency,
 
 | Languages | Tools | Design |
 |-----------|-------|--------|
-| <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" width="220"/> | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> | <img src="https://skillicons.dev/icons?i=ps,figma" width="100"/> |
+| <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" width="220"/> | <img src="https://skillicons.dev/icons?i=git," width="220"/> | <img src="https://skillicons.dev/icons?i=ps,figma" width="100"/> |
 
 ---
 
-## 📊 Machine Learning Stack  
+## 📊 Frameworks & Libraries
 
-| PyTorch | TensorFlow | Pandas | NumPy | Sklearn | Matplotlib | OpenCV |
+| Spring | React | Tailwind css | pandas | Numpy | Matplotlib | OpenCV |
 |---------|------------|--------|-------|---------|------------|--------|
-| <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" fill="#150458"/> | <img src="https://numpy.org/images/logo.svg" width="50"/> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50"/> | <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50"/> | <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-1.png" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=spring" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" fill="#150458"/> | <img src="https://numpy.org/images/logo.svg" width="50"/> | <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50"/> | <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-1.png" width="50"/> |
 
 ---
 
