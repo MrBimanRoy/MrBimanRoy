@@ -20,7 +20,7 @@ Beyond academics, I’m motivated by long-term goals and believe in consistency,
 
 | Languages | Tools | Design |
 |-----------|-------|--------|
-| <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php" width="220"/> | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> | <img src="https://skillicons.dev/icons?i=ps,ai,xd,blender" width="220"/> |
+| <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" width="220"/> | <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" width="220"/> | <img src="https://skillicons.dev/icons?i=ps,ai,xd,blender" width="220"/> |
 
 ---
 
