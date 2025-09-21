@@ -63,5 +63,5 @@ Beyond academics, I’m motivated by long-term goals and believe in consistency,
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#ff914d&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=120&section=footer"/>
 </p>
