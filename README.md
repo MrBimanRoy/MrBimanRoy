@@ -11,8 +11,8 @@ I’m a passionate MCA student who enjoys exploring how technology can solve rea
 Beyond academics, I’m motivated by long-term goals and believe in consistency, hard work, and creativity. I see technology not just as a career path but as a way to create meaningful impact.
 
 - 🎨 Graphic Design Enthusiast  
-- 🖥️ Future AI/ML Engineer  
-- 🛠️ Lifelong Learner & Open Source Contributor  
+- 🖥️ Full Stack Dev | AI & ML DEV
+- 🛠️ Learner & Open Source Contributor  
 
 ---
 
