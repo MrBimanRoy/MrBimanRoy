@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB84D&height=200&section=header&text=I%20am%20Biman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=200&section=header&text=I%20am%20Biman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
 </p>
 
 ---
@@ -63,5 +63,5 @@ Beyond academics, I’m motivated by long-term goals and believe in consistency,
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#ff914d&height=120&section=footer"/>
 </p>
