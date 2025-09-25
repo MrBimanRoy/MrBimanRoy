@@ -32,7 +32,7 @@ Beyond academics, I’m motivated by long-term goals and believe in consistency,
 
 ---
 
-## Connect with Me  
+## Connect Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
